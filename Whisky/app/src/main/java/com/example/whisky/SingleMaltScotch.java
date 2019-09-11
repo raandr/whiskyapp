@@ -1,4 +1,4 @@
 package com.example.whisky;
 
-public class SingleMaltScotch extends Whisky {
+public class SingleMaltScotch extends Scotch {
 }

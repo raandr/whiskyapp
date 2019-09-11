@@ -20,6 +20,9 @@ public class MainActivity extends AppCompatActivity {
     public void onClick2(View view) {
     }
 
+    public void onClickAdd(View view) {
+    }
+
     public void onClickSpinner(View view) {
 
     }

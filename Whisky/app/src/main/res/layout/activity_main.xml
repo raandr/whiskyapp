@@ -64,4 +64,16 @@
         app:layout_constraintTop_toTopOf="parent"
         tools:visibility="visible" />
 
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/floatingActionButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:clickable="true"
+        android:onClick="onClickAdd"
+        android:visibility="visible"
+        app:srcCompat="@android:drawable/ic_menu_add"
+        tools:layout_editor_absoluteX="286dp"
+        tools:layout_editor_absoluteY="602dp"
+        tools:visibility="visible" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
